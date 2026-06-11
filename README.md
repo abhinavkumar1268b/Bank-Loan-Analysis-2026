@@ -21,14 +21,12 @@ Purpose-wise Loan Analysis
 Interest Rate and DTI Metrics
 
 _**🛠️ Technologies Used**_
-
 Microsoft Excel	Data Cleaning and Preparation
 Microsoft SQL Server	Querying and Data Analysis
 Python	Exploratory Data Analysis and Insights
 Power BI	Interactive Dashboard and Visualization
 
 _**📂 Project Workflow**_
-
 1. Data Cleaning
 Removed duplicates and missing values.
 Standardized data formats.
@@ -78,8 +76,8 @@ Slicers and Filters
 Drill-down Capabilities
 
 Tool Used: Power BI
-
-📈 Dashboard Insights
+**
+**📈 Dashboard Insights****
 Key Performance Indicators (KPIs)
 Total Loan Applications
 Total Funded Amount
@@ -100,7 +98,7 @@ Home Ownership Analysis
 State-wise Loan Performance
 
 
-📊 Tools and Libraries
+**📊 Tools and Libraries*****
 Python Libraries
 pandas
 numpy
@@ -116,6 +114,12 @@ Identify good and bad loans.
 Monitor monthly trends.
 Provide actionable business insights.
 Enable data-driven decision-making through interactive dashboards.
+
+
+<img width="957" height="537" alt="image" src="https://github.com/user-attachments/assets/19fc6f3c-c1d6-4bb0-9315-1338d5349500" />
+<img width="957" height="538" alt="image" src="https://github.com/user-attachments/assets/97c20402-40c7-4d6a-b4ab-2b806702e047" />
+<img width="958" height="537" alt="image" src="https://github.com/user-attachments/assets/dab7202c-d6b7-4ef5-bb5a-79cd969660d3" />
+
 
 
 
